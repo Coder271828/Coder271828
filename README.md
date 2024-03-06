@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love mathematics (specifically analysis) and programming cool stuff. 
+As an online HS student myself, I'm currently working on an app targeted toward helping online school students lead healthier and more productive lives. 
 <!--
 **Coder271828/Coder271828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
